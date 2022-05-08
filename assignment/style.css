@@ -5,10 +5,12 @@ body{
 header{
     background-color: navajowhite;
     font-family: Arial, Helvetica, sans-serif;
+    height: 3cm;
 }
 
 footer{
     background-color: #555;
+    height: 3cm;
 }
 
 h1{
